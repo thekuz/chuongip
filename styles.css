@@ -38,11 +38,11 @@ html, body {
 }
 
 .play {
-	background:url(http://chuongip.com/images/sound_speaker_volume.png) no-repeat 0px 0px !important;	
+	background:url(http://i68.servimg.com/u/f68/15/68/66/40/12308815.png) no-repeat 0px 0px !important;	
 }
 
 .pause {
-	background:url(http://chuongip.com/images/sound_speaker_volume.png) no-repeat 0px -40px !important;	
+	background:url(http://i68.servimg.com/u/f68/15/68/66/40/12308815.png) no-repeat 0px -40px !important;	
 }
 
 .bgs>div {
@@ -55,19 +55,19 @@ html, body {
 }
 
 .bg-0 {
-	background:url(http://chuongip.com/images/bg_red.jpg)  no-repeat top center;	
+	background:url(http://i68.servimg.com/u/f68/15/68/66/40/bg_red10.jpg)  no-repeat top center;	
 }
 
 .bg-270 {
-	background:url(http://chuongip.com/images/bg_purple.jpg)  no-repeat top center;
+	background:url(http://i68.servimg.com/u/f68/15/68/66/40/bg_pur10.jpg)  no-repeat top center;
 }
 
 .bg-90 {
-	background:url(http://chuongip.com/images/bg_blue.jpg)  no-repeat top center;	
+	background:url(http://i68.servimg.com/u/f68/15/68/66/40/bg_blu10.jpg)  no-repeat top center;	
 }
 
 .bg-180 {
-	background:url(http://chuongip.com/images/bg_snow.jpg)  no-repeat top center;
+	background:url(http://i68.servimg.com/u/f68/15/68/66/40/bg_sno10.jpg)  no-repeat top center;
 }
 
 .general {
@@ -82,7 +82,7 @@ html, body {
 	width:1500px;
 	height:1500px;
 	margin:0 0 0 -240px;
-	background:url(http://chuongip.com/images/christmas_world.png) no-repeat;
+	background:url(http://oi63.tinypic.com/t6b7ls.jpg) no-repeat;
 	z-index:0 !important;
 }
 
@@ -93,7 +93,7 @@ html, body {
 	top:270px;
 	right:0;
 	cursor:pointer;
-	background:url(http://chuongip.com/images/arrow-right.png) no-repeat;
+	background:url(http://i63.tinypic.com/qpl3r6.png) no-repeat;
 	z-index:2;	
 }
 
@@ -109,7 +109,7 @@ html, body {
 	top:270px;
 	left:0;
 	cursor:pointer;
-	background:url(http://chuongip.com/images/arrow-left.png) no-repeat;		
+	background:url(http://i66.tinypic.com/2wgrxie.png) no-repeat;		
 	z-index:2;	
 }
 
@@ -154,7 +154,7 @@ html, body {
 	height:260px;
 	position:absolute;
 	top:650px;
-	background:url(http://chuongip.com/images/wings.png) no-repeat top center;	
+	background:url(http://i67.tinypic.com/209otac.png) no-repeat top center;	
 }
 
 .wings-wrapper-sub{
